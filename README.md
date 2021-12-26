@@ -27,10 +27,10 @@ I am passionate MERN STACK Developer 💻. I love to code and explore new tools 
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://i.postimg.cc/nL0F1hWm/tailwind-css.png" width="auto" height="35px"/> </a> 
     <a href="https://mui.com/" target="_blank"> <img src="https://i.postimg.cc/ydmwTQxb/logo.png" width="auto" height="50px"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.php.net/" target="_blank"> <img height="35px"  src="https://i.postimg.cc/qvCjzkmt/php-programming-language.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a  href="https://www.php.net/" target="_blank"> <img height="35px"  src="https://i.postimg.cc/qvCjzkmt/php-programming-language.png"/> </a> 
+    <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a  href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a  href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
@@ -47,9 +47,9 @@ I am passionate MERN STACK Developer 💻. I love to code and explore new tools 
 <br/>
 <br/>
 
+
 <p align="center">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pruthvi Tirmal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pruthvi-Tirmal
-&theme=react&hide_border=true&stroke=0000"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pruthvi Tirmal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pruthvi-Tirmal&theme=react&hide_border=true&stroke=0000"/>
 </p>
 
 <br/>
