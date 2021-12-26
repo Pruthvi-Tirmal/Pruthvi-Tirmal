@@ -1,4 +1,4 @@
-<center><img style="display:block;margin:0 auto" width="400px" height="400px" src="https://i.postimg.cc/bdcFm8Kq/Developer-activity-bro.png"/></center>
+<p align="center"><img style="display:block;margin:0 auto" width="400px" height="400px" src="https://i.postimg.cc/bdcFm8Kq/Developer-activity-bro.png"/></p>
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pruthvi Tirmal</h1>
