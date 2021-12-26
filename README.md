@@ -1,10 +1,9 @@
-<img style="display:block;margin:0 auto" width="400px" height="400px" src="https://i.postimg.cc/bdcFm8Kq/Developer-activity-bro.png"/>
+<center><img style="display:block;margin:0 auto" width="400px" height="400px" src="https://i.postimg.cc/bdcFm8Kq/Developer-activity-bro.png"/></center>
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pruthvi Tirmal</h1>
 <h3 align="center">I'm a passionate MERN STACK Developer from India.</h3>
 
-<hr/>
 
 ## [![hacker-1.png](https://i.postimg.cc/GtLRZwsD/hacker-1.png)](https://postimg.cc/ygb2ZGj6) About Me
 
