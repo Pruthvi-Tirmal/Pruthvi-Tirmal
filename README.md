@@ -29,16 +29,16 @@ I am passionate MERN STACK Developer 💻. I love to code and explore new tools 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a  href="https://www.php.net/" target="_blank"> <img height="35px"  src="https://i.postimg.cc/qvCjzkmt/php-programming-language.png"/> </a> 
     <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a  href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+ <a style="margin-left:10%" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a  href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://i.postimg.cc/JhhXgMDX/express.png" alt="express" width="auto" height="40"/> </a>
      <a href="https://www.electronjs.org/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-the-electron-is-a-subatomic-particle-whose-electric-charge-is-negative-one-logo-color-tal-revivo.png"/> </a>
-     <a style="margin-left:5px" href="https://socket.io/" target="_blank"> <img height="40px" src="https://i.postimg.cc/x8B9Yvjp/socket-io-logo-png-transparent.png"/> </a>
+     <a  href="https://socket.io/" target="_blank"> <img height="40px" src="https://i.postimg.cc/x8B9Yvjp/socket-io-logo-png-transparent.png"/> </a>
 
 </p>
 
