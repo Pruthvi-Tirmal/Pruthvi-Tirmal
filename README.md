@@ -64,11 +64,11 @@ I am passionate MERN STACK Developer 💻. I love to code and explore new tools 
 
 <br/>
 <br/>
+<!-- 
+<img alt="Pruthvi Tirmal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pruthvi-Tirmal&bg_color=20232A&color=61DAFB&line=5BCDEC&point=FFFFFF&hide_border=true" /> -->
 
-<img alt="Pruthvi Tirmal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pruthvi-Tirmal&bg_color=20232A&color=61DAFB&line=5BCDEC&point=FFFFFF&hide_border=true" />
-
-<br/>
-<br/>
+<!-- <br/>
+<br/> -->
 
 ## Talk with me, I am kinda awesome 😎:
 <p align="left">
