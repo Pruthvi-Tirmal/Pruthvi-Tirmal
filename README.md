@@ -62,8 +62,8 @@ I am passionate MERN STACK Developer 💻. I love to code and explore new tools 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-<br/>
-<br/>
+<!-- <br/> -->
+<!-- <br/> -->
 <!-- 
 <img alt="Pruthvi Tirmal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pruthvi-Tirmal&bg_color=20232A&color=61DAFB&line=5BCDEC&point=FFFFFF&hide_border=true" /> -->
 
