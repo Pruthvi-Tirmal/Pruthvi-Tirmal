@@ -7,9 +7,10 @@
 
 ## [![hacker-1.png](https://i.postimg.cc/GtLRZwsD/hacker-1.png)](https://postimg.cc/ygb2ZGj6) About Me
 
-I am an undergraduate student currently pursuing B.Tech in Computer Engineering.
-I am passionate MERN STACK Developer 💻. I love to code and explore new tools and technologies ⚡.
-- Hobbies : Singing and listening to music 🎶, love to play cricket 🏏. It makes me feel fresh and energetic.
+- I am final year student currently pursuing B.Tech in Computer Engineering.
+- I am passionate MERN STACK Developer 💻.
+- I love to code and explore new tools and technologies ⚡.
+<!-- - Hobbies : Singing and listening to music 🎶, love to play cricket 🏏. It makes me feel fresh and energetic.-->
  
 
 ## 🚀 Languages and Tools:
