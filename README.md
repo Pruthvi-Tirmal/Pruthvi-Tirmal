@@ -2,12 +2,12 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pruthvi Tirmal</h1>
-<h3 align="center">I'm a passionate MERN STACK Developer from India.</h3>
+<h3 align="center">I'm a passionate FULL STACK Developer from India.</h3>
 
 
 ## [![hacker-1.png](https://i.postimg.cc/GtLRZwsD/hacker-1.png)](https://postimg.cc/ygb2ZGj6) About Me
 
-- I am passionate MERN STACK Developer 💻.
+- I am passionate FULL STACK Developer 💻.
 - I love to code and explore new tools and technologies ⚡.
 <!-- - Hobbies : Singing and listening to music 🎶, love to play cricket 🏏. It makes me feel fresh and energetic.-->
  
@@ -15,9 +15,13 @@
 ## 🚀 Languages and Tools:
 
 <p align="center">
+ <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+<img width="50" height="50" src="https://img.icons8.com/fluency-systems-filled/50/nextjs.png" alt="nextjs"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
  <a href="http://www.cplusplus.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/></a> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
 <!--     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>  -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -29,6 +33,7 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a  href="https://www.php.net/" target="_blank"> <img height="35px"  src="https://i.postimg.cc/qvCjzkmt/php-programming-language.png"/> </a> 
     <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+<img width="48" height="48" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
  <a style="margin-left:10%" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a  href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
@@ -72,6 +77,7 @@
 
 ## Talk with me, I am kinda awesome 😎:
 <p align="left">
+<a href="https://x.com/Pruthvix7"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" alt="twitterx--v1"/></a>
 <a href = "https://www.linkedin.com/in/pruthvitirmal/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <!-- <a href = "https://twitter.com/pruthvitirmal"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
 <a href = "https://www.instagram.com/phoenix_81_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
