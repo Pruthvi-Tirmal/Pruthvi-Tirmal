@@ -1,4 +1,6 @@
+<!--
 <p align="center"><img style="display:block;margin:0 auto" width="400px" height="400px" src="https://i.postimg.cc/bdcFm8Kq/Developer-activity-bro.png"/></p>
+-->
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pruthvi Tirmal</h1>
@@ -59,6 +61,7 @@
 
 <br/>
 
+<!--
 ## 📈 My Github Stats
 
   <img alt="Pruthvi Tirmal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pruthvi-Tirmal&show_icons=true&count_private=true&theme=react&hide_border=true" /></a>
@@ -66,6 +69,7 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
+-->
 
 <!-- <br/> -->
 <!-- <br/> -->
@@ -77,7 +81,7 @@
 
 ## Talk with me, I am kinda awesome 😎:
 <p align="left">
-<a href="https://x.com/Pruthvix7"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" alt="twitterx--v1"/></a>
+<a href="https://x.com/Pruthvix7"><img width="50" height="50" src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000" alt="twitterx--v1"/></a>
 <a href = "https://www.linkedin.com/in/pruthvitirmal/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <!-- <a href = "https://twitter.com/pruthvitirmal"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
 <a href = "https://www.instagram.com/phoenix_81_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
