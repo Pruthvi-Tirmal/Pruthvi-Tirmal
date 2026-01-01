@@ -75,7 +75,7 @@
 
 ## Talk with me, I am kinda awesome 😎:
 <p align="left">
-<a href="https://x.com/Pruthvix7"><img width="50" height="50" src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000" alt="twitterx--v1"/></a>
+<a href="https://x.com/voidx_devc"><img width="50" height="50" src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000" alt="twitterx--v1"/></a>
 <a href = "https://www.linkedin.com/in/pruthvitirmal/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <!-- <a href = "https://twitter.com/pruthvitirmal"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
 <a href = "https://www.instagram.com/phoenix_81_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
