@@ -4,15 +4,9 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pruthvi Tirmal</h1>
-<h3 align="center">I'm a passionate FULL STACK Developer from India.</h3>
-
-
-## [![hacker-1.png](https://i.postimg.cc/GtLRZwsD/hacker-1.png)](https://postimg.cc/ygb2ZGj6) About Me
-
-- I am passionate FULL STACK Developer 💻.
-- I love to code and explore new tools and technologies ⚡.
-<!-- - Hobbies : Singing and listening to music 🎶, love to play cricket 🏏. It makes me feel fresh and energetic.-->
- 
+<h3 align="center">A software engineer based in India 🇮🇳</h3>
+<h6 align="center">Full-stack developer · Cloud enthusiast · Pragmatic builder</h6>
+<h4 align="center">💡 From idea to impact — building scalable apps that grow with you 🚀</h4>
 
 ## 🚀 Languages and Tools:
 
