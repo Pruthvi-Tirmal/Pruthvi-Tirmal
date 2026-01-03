@@ -3,7 +3,7 @@
 -->
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pruthvi Tirmal</h1>
+<h3 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pruthvi Tirmal</h1>
 <h3 align="center">A software engineer based in India 🇮🇳</h3>
 <h6 align="center">Full-stack developer · Cloud enthusiast · Pragmatic builder</h6>
 <h3 align="center">💡 From idea to impact — building scalable apps that grow with you 🚀</h4>
